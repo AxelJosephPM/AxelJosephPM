@@ -194,15 +194,11 @@ Aerospace Engineering
 
 ## GitHub Activity
 
-<div align="center">
-
-<img
-  src="metrics.isocalendar.svg"
-  alt="Full-year isometric GitHub contribution calendar for AxelJosephPM"
-  width="100%"
->
-
-</div>
+<p align="center">
+  <img src="./metrics.isocalendar.svg"
+       alt="Full-year isometric GitHub contribution calendar for AxelJosephPM"
+       width="100%" />
+</p>
 
 ---
 
