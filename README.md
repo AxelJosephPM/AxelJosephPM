@@ -197,7 +197,7 @@ Aerospace Engineering
 <p align="center">
   <img src="./metrics.isocalendar.svg"
        alt="Full-year isometric GitHub contribution calendar for AxelJosephPM"
-       width="100%" />
+       width="82%" />
 </p>
 
 ---
@@ -210,7 +210,7 @@ Aerospace Engineering
   <img
     src="metrics.blog.svg"
     alt="Recent articles from Axel Joseph's blog"
-    width="100%"
+    width="78%"
   >
 </a>
 
